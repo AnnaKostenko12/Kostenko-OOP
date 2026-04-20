@@ -7,4 +7,4 @@
 
 ## Код
 
-[Переглянути код](src/zavd1.java)
+[Переглянути код](https://github.com/AnnaKostenko12/Kostenko-OOP/blob/main/src/zavd1/zavd1.java)
