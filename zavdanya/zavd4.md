@@ -5,7 +5,9 @@
 ## 3. Забезпечити діалоговий інтерфейс із користувачем. 
 ## 4. Розробити клас для тестування основної функціональності.
 
+<img width="518" height="473" alt="image" src="https://github.com/user-attachments/assets/ec50fd4a-6568-4a2b-ac74-920d7397852a" />
+
 
 ## Код
 
-[Переглянути код](src/zavd1.java)
+[Переглянути код](https://github.com/AnnaKostenko12/Kostenko-OOP/blob/main/src/zavd4/zavd4.java)
